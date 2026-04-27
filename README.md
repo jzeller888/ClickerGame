@@ -4,7 +4,7 @@ A clicker game in C++ (in polish)
 
 #Instrukcja obsługi clickera
 
-# Kompilacja
+# Kompilacja na Linuxie
 
 Kompilacja krok po kroku
 1. zainstalować cmake
