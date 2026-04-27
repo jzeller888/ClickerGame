@@ -31,9 +31,16 @@ dostarcza nowe głosy na turę oraz rekrutów na działaczy w twoich komitetach 
 
 # Sterowanie
 • Następna tura → y
+
 • Sklep → ulepsz
+
 • Zapisz → save
+
 • Stan skarbca, budynków itd. → status
+
 • Osiągnięcia → achivmenty
+
 • Instrukcja → h
+
 • Wyjście z gry → exit
+
